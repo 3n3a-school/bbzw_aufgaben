@@ -1,4 +1,0 @@
-﻿  Aufgabe4.cpp
-LINK : warning LNK4075: /INCREMENTAL wird aufgrund der Angabe von /OPT:ICF ignoriert.
-MSVCRT.lib(exe_winmain.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "_WinMain@16" in Funktion ""int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ)".
-\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M411\Aufgabe4\Release\Aufgabe4.exe : fatal error LNK1120: 1 nicht aufgelöste Externe

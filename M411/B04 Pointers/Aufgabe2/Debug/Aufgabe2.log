@@ -1,0 +1,4 @@
+﻿  Aufgabe2.cpp
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M411\B04 Pointers\Aufgabe2\Aufgabe2.cpp(5,13): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M411\B04 Pointers\Aufgabe2\Aufgabe2.cpp(10,13): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  Aufgabe2.vcxproj -> \\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M411\B04 Pointers\Aufgabe2\Debug\Aufgabe2.exe
