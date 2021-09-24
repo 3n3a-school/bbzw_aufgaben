@@ -1,0 +1,5 @@
+﻿  Aufgabe6.cpp
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M411\02 1 Pointers\Aufgabe6\Aufgabe6.cpp(7,11): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M411\02 1 Pointers\Aufgabe6\Aufgabe6.cpp(24,15): error C2440: "=": "const char [2]" kann nicht in "char" konvertiert werden
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M411\02 1 Pointers\Aufgabe6\Aufgabe6.cpp(24,12): message : Es gibt keinen Kontext, in dem diese Konvertierung möglich ist
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M411\02 1 Pointers\Aufgabe6\Aufgabe6.cpp(25,20): error C2440: "=": "double" kann nicht in "double *" konvertiert werden

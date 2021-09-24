@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "16JIDEQkz7EIK/FB8GXEpgxj/2T0uNDIF5nRab7cMHZI+/rEUqw26EBK7OjJm+x/OzLNMaMrkIsIcsC9yCPLkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vmadmin\\OneDrive - sluz\\Informatik\\2. Lehrjahr\\1. Semester\\Modul 226A\\Block 1\\Block 1\\Block 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmadmin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
