@@ -1,0 +1,4 @@
+﻿  Aufgabe6.cpp
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M411\B04 Pointers\Aufgabe6\Aufgabe6.cpp(5,13): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+LINK : warning LNK4076: Inkrementelle Statusdatei "\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M411\B04 Pointers\Aufgabe6\Debug\Aufgabe6.ilk" ungültig (wird gelöscht); Link erfolgt nicht inkrementell.
+  Aufgabe6.vcxproj -> \\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M411\B04 Pointers\Aufgabe6\Debug\Aufgabe6.exe
