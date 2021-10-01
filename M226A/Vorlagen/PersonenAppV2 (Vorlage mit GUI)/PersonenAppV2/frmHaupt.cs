@@ -9,6 +9,7 @@ namespace PersonenAppV2
         //Membervariablen
         List<Person> m_Personen = new List<Person>();
         private int m_Position = 0;
+        private string m_neuePerson;
 
 
         /// <summary>
@@ -129,13 +130,11 @@ namespace PersonenAppV2
             if (f.ShowDialog(this) == DialogResult.OK)
             {
                 // Read the contents of f's TextBox.
-                this.textBox1.Text = testDialog.TextBox1.Text;
-                this.textBox1.Text = testDialog.TextBox1.Text;
-
+                this.m_neuePerson = f.textBox1.Text;
             }
             else
             {
-                this.txtResult.Text = "Cancelled";
+                this.m_neuePerson = "Cancelled";
             }
             f.Dispose();
         }
