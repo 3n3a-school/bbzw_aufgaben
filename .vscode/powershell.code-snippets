@@ -1,6 +1,7 @@
 {
     "Condition statement": {
         "prefix": "cond",
+        "scope": "powershell",
         "body": [
             "${_} { ${0}; break }"
         ],
@@ -9,6 +10,7 @@
 
     "Condition single quoted string statement": {
         "prefix": "condsqstr",
+        "scope": "powershell",
         "body": [
             "'${_}' { ${0}; break }"
         ],
@@ -17,6 +19,7 @@
 
     "Condition double quoted string statement": {
         "prefix": "conddqstr",
+        "scope": "powershell",
         "body": [
             "\"${_}\" { ${0}; break }"
         ],
@@ -25,6 +28,7 @@
     
     "Condition expression statement": {
         "prefix": "condexpr",
+        "scope": "powershell",
         "body": [
             "{${_}} { ${0}; break }"
         ],
@@ -33,6 +37,7 @@
 
     "Do...while loop": {
         "prefix": "do",
+        "scope": "powershell",
         "body": [
             "do {",
             "\t$0",
@@ -43,6 +48,7 @@
 
     "Do...until loop": {
         "prefix": "do",
+        "scope": "powershell",
         "body": [
             "do {",
             "\t$0",
@@ -53,6 +59,7 @@
 
     "Else statement": {
         "prefix": "else",
+        "scope": "powershell",
         "body": [
             "else {",
             "\t$0",
@@ -63,6 +70,7 @@
 
     "ElseIf statement": {
         "prefix": "elseif",
+        "scope": "powershell",
         "body": [
             "elseif (${$variable}) {",
             "\t$0",
@@ -73,6 +81,7 @@
 
     "Foreach statement": {
         "prefix": "foreach",
+        "scope": "powershell",
         "body": [
             "foreach (${$item} in ${$collection}) {",
             "\t$0",
@@ -83,6 +92,7 @@
 
     "For loop": {
         "prefix": "for",
+        "scope": "powershell",
         "body": [
             "for (${$i} = 0; ${$i} -lt ${$length}; ${$i}++) {",
             "\t$0",
@@ -93,6 +103,7 @@
 
     "If statement": {
         "prefix": "if",
+        "scope": "powershell",
         "body": [
             "if (${$variable}) {",
             "\t$0",
@@ -103,6 +114,7 @@
 
     "Reverse for loop": {
         "prefix": "forr",
+        "scope": "powershell",
         "body": [
             "for (${$i} = ${$length} - 1; ${$i} -ge 0; ${$i}--) {",
             "\t$0",
@@ -113,6 +125,7 @@
 
     "Switch statement": {
         "prefix": "switch",
+        "scope": "powershell",
         "body": [
             "switch (${$variable}) {",
             "\t${condition} { ${action}; break }",
@@ -124,6 +137,7 @@
 
     "Try catch": {
         "prefix": "try",
+        "scope": "powershell",
         "body": [
             "try {",
             "\t${_}",
@@ -138,6 +152,7 @@
 
     "Try catch finally": {
         "prefix": "trycf",
+        "scope": "powershell",
         "body": [
             "try {",
             "\t${_}",
@@ -154,6 +169,7 @@
 
     "Try finally": {
         "prefix": "tryf",
+        "scope": "powershell",
         "body": [
             "try {",
             "\t${_}",
@@ -167,6 +183,7 @@
 
     "While loop": {
         "prefix": "while",
+        "scope": "powershell",
         "body": [
             "while (${$variable}) {",
             "\t$0",
@@ -177,6 +194,7 @@
 
     "Class": {
         "prefix": "class",
+        "scope": "powershell",
         "body": [
             "class ${Name} {",
             "\t$0",
@@ -187,6 +205,7 @@
 
     "Enum": {
         "prefix": "enum",
+        "scope": "powershell",
         "body": [
             "enum ${Name} {",
             "\t$0",
@@ -197,6 +216,7 @@
 
     "Method": {
         "prefix": "meth",
+        "scope": "powershell",
         "body": [
             "[$1] $2() {",
             "\t$0",
@@ -207,6 +227,7 @@
 
     "Property": {
         "prefix": "prop",
+        "scope": "powershell",
         "body": [
             "[${string}] ${$Property}$0"
         ],
@@ -215,6 +236,7 @@
 
     "Property hidden": {
         "prefix": "proph",
+        "scope": "powershell",
         "body": [
             "hidden [${string}] ${$Property}$0"
         ],
@@ -223,6 +245,7 @@
 
     "Function": {
         "prefix": "func",
+        "scope": "powershell",
         "body": [
             "function $1() {",
             "\t$0",
@@ -233,6 +256,7 @@
 
     "Function advanced": {
         "prefix": "funcadv",
+        "scope": "powershell",
         "body": [
             "<#",
             ".SYNOPSIS",
@@ -269,6 +293,7 @@
 
     "Help": {
         "prefix": "help",
+        "scope": "powershell",
         "body": [
             "<#",
             ".SYNOPSIS",
