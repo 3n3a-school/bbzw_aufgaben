@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-void main() {
+int main() {
   char Text[100];
 
   printf("Enter text: ");
@@ -20,4 +20,5 @@ void main() {
   printf("Length string: %d\n", i);
 
   system("pause");
+  return 0;
 }

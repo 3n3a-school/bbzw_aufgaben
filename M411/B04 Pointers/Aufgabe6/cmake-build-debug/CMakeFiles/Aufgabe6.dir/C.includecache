@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/ENK/Documents/bbzw_aufgaben/M411/B04 Pointers/Aufgabe6/Aufgabe6.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
