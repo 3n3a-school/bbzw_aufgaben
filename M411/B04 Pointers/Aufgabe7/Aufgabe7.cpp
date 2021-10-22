@@ -37,17 +37,50 @@ void reverse_string(char* str)
 	}
 }
 
+void reverse_string2(char* str) {
+	int len = strlen(str);
+	char *start_ptr = str;
+	char *end_ptr = str + len - 1;
+
+	int i = 0;
+	char temp;
+
+	for (i; i < len / 2; i++) {
+		temp = *end_ptr;
+		*end_ptr = *start_ptr;
+		*start_ptr = temp;
+
+		start_ptr++;
+		end_ptr--;
+	}
+}
+
+void reverse_string_optimiert(char* str) {
+	while (*str != '\0') str++;
+	while (--str >= *str) printf("%c", *str);
+}
+
 
 int main()
 {	
 	char str[50];
+	char str2[50];
+	char str3[50];
+
 	printf("Enter the string to be reversed:");	
 	fgets(str, sizeof(str), stdin);
-	
-	reverse_string(str);
+	str2 = str;
+	str3 = str;
 
+	reverse_string(str);
 	printf("Reversed String: %s", str);
 
-  system("pause");
+	reverse_string2(str2);
+	printf("Reversed String2: %s", str2);
+
+	reverse_string_optimiert(str3);
+	printf("Reversed String3: %s", str3);
+
+  	//system("pause");
 	return 0;
 }
