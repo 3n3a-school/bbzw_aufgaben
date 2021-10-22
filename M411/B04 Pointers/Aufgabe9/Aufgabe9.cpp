@@ -22,7 +22,7 @@ int main() {
     pt++;
   }
   
-  printf("Uppercase String: %s.exe", text_input);
+  printf("Uppercase String: %s", text_input);
 
   //system("pause");
   return 0;
