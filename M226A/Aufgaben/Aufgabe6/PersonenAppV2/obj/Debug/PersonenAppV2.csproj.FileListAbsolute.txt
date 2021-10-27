@@ -1,0 +1,22 @@
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\bin\Debug\PersonenAppV2.exe.config
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\bin\Debug\PersonenAppV2.exe
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\bin\Debug\PersonenAppV2.pdb
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.frmHaupt.resources
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.Properties.Resources.resources
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.exe
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.pdb
+\\vmware-host\Shared Folders\E\BF\2_Lehrjahr\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.Form1.resources
+C:\Users\ENK\Documents\bbzw_aufgaben\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.csproj.AssemblyReference.cache
+C:\Users\ENK\Documents\bbzw_aufgaben\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.Form1.resources
+C:\Users\ENK\Documents\bbzw_aufgaben\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.frmHaupt.resources
+C:\Users\ENK\Documents\bbzw_aufgaben\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.Properties.Resources.resources
+C:\Users\ENK\Documents\bbzw_aufgaben\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.csproj.GenerateResource.cache
+C:\Users\ENK\Documents\bbzw_aufgaben\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.csproj.CoreCompileInputs.cache
+C:\Users\ENK\Documents\bbzw_aufgaben\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.exe
+C:\Users\ENK\Documents\bbzw_aufgaben\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\obj\Debug\PersonenAppV2.pdb
+C:\Users\ENK\Documents\bbzw_aufgaben\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\bin\Debug\PersonenAppV2.exe.config
+C:\Users\ENK\Documents\bbzw_aufgaben\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\bin\Debug\PersonenAppV2.exe
+C:\Users\ENK\Documents\bbzw_aufgaben\M226A\Vorlagen\PersonenAppV2 (Vorlage mit GUI)\PersonenAppV2\bin\Debug\PersonenAppV2.pdb
