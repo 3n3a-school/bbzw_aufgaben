@@ -9,18 +9,7 @@ int main() {
   fgets(text_input, sizeof(text_input), stdin);
   //gets_s(text_input);
 
-  int i = 0;
-  char* pt = text_input;
-  while (*pt != '\0' && *pt != 0x0a) {
-    if (*pt == ' ') {
-      *pt = ' ';
-    } else {
-      *pt -= 0x20;
-    }
-
-    i++;
-    pt++;
-  }
+  for (  char* pt = text_input; *pt != '\0' && *pt != 0x0a; ) (*pt >= 'a' && *pt <= 'z') ? (*pt++ -= 0x20) : *pt++;
   
   printf("Uppercase String: %s", text_input);
 
